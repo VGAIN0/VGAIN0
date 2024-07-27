@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @VGAIN0
 - 👀 I’m interested in IT.
-- 🌱 I’m currently learning to survive -_-.
-- 📫 How to reach me ... Discord VG41N#7158
+- 🌱 I’m currently learning to python and web development $~.
+- 📫 How to reach me ... Discord fewdaysonearth
 
 <!---
 VGAIN0/VGAIN0 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
